@@ -1,0 +1,6 @@
+Debug
+cmake-build-debug
+.settings
+.DS_Store
+.vscode
+.idea
